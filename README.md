@@ -38,6 +38,7 @@ https://confess-report.onrender.com
 
 > To see the profanity score for a text, add /api?query={your_text} to the base url. 
 
+![SCR-20230424-dzm](https://user-images.githubusercontent.com/92971894/233913528-0e77a9e4-7058-4bb8-b6c3-0ecc29b56612.png)
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
